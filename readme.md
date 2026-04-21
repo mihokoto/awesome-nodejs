@@ -660,6 +660,8 @@
 - [rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Brute-force and DDoS attack protection.
 - [crypto-hash](https://github.com/sindresorhus/crypto-hash) - Async non-blocking hashing.
 - [jose-simple](https://github.com/davesag/jose-simple) - Encryption and decryption of data using the JOSE (JSON Object Signing and Encryption) standard.
+- [FmtDev](https://fmtdev.dev/tools/jwt-decoder) - 100% offline, WASM-backed JWT and PASETO decoder preventing token leakage to third-party logs.
+- [ncrypto](https://github.com/nodejs/ncrypto) - Official Node.js library supporting OpenSSL and crypto functions for the native node:crypto module.
 
 ### Benchmarking
 
